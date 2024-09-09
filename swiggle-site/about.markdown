@@ -29,5 +29,5 @@ Creative tools are designed for the artist, AI tools are designed to fit the mod
 
 ### 2024
 
+- [People to Follow in Interpretability](/blogs/people-to-follow-in-interpretability) - Last updated: September 10, 2024
 - [The State of Mech Interp 2024](/blogs/the-state-of-mech-interp-2024) - Coming Soon!
-- [People to Follow in Mech Interp](/blogs/people-to-follow-in-mech-interp) - Coming Soon!
