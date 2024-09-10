@@ -10,7 +10,7 @@ use_math: true
 
 We trained a VAE on the nouns dataset, 50k pixel art characters with glasses, unique heads, and t-shirts, and trained a sparse autoencoder to extract meaningful features represented in the latent space. We hand labelled 2048 features and created a playground for visualizing them and an interface for adjusting the strength of features in pixel art character. We created a RAG system for adding and removing features given a natural language prompt. This is a research prototype / exploration for future works in 1. interpreting diffusion models and 2. creating better interfaces for controlling their outputs beyond just text.
 
-<iframe src="https://drive.google.com/file/d/1BoBhUUsduCxk4wy-E0GLE-mvB-ytjYwz/preview" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1PA2WM6LP9WeZK2NsODQlzTsr1991Tb6T/preview" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Intro
 
@@ -79,13 +79,13 @@ We created a playground to visualize the UMAP embeddings of the features. Hereâ€
 
 We created a playground to dial up and down the features in a pixel art character. Experiment with increasing and decreasing the strength of a feature.
 
-[video of adjusting feature strength]
+<iframe src="https://drive.google.com/file/d/16Ett_JnyOh-aMA0W_BHymw_LsYGlToC2/preview" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### RAG on Latent Space
 
 We generated text embeddings for the hand labeled features and implemented a RAG system to edit pixel art characters using natural language prompts. Given a prompt, we semantically search for the relevant features and decide whether to increase or decrease its activation. This all works without training a new model to follow instructions!
 
-[video of adding a head]
+<iframe src="https://drive.google.com/file/d/1qlb5QKXVsCjPX1XvdqeFsJw5nISj_-Hc/preview" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Whatâ€™s Next?
 
