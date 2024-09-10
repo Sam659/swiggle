@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swiggle
+title: Mooks Lab
 subtitle: An AI Image Research Lab
 permalink: /
 ---
@@ -31,3 +31,6 @@ Creative tools are designed for the artist, AI tools are designed to fit the mod
 
 - [People to Follow in Interpretability](/blogs/people-to-follow-in-interpretability) - Last updated: September 10, 2024
 - [The State of Mech Interp 2024](/blogs/the-state-of-mech-interp-2024) - Coming Soon!
+
+<br>
+[Eric Chen](https://x.com/erico_cheny). [Javier Garcia](https://x.com/Javier_A_Garcia). [Sam Postelnik](https://x.com/sam_postelnik).
