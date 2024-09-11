@@ -21,7 +21,7 @@
 title: Image Interpretability Research Lab
 email: postelniksam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Building AI creative tools.
+  Building AI creative tools for artists.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sam_postelnik
