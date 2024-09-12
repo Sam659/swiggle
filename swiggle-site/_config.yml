@@ -23,9 +23,9 @@ email: postelniksam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Building AI creative tools for artists.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thunderous-druid-d70c78.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sam659.github.io/swiggle" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sam_postelnik
-github_username: sam659
+github_username: Sam659
 
 # Build settings
 theme: tufte-pandoc-jekyll
