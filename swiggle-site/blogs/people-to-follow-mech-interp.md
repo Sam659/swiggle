@@ -5,8 +5,9 @@ permalink: /blogs/people-to-follow-in-interpretability
 use_math: true
 ---
 
-<p style="color: gray;"><em>Last updated: September 10, 2024</em></p>
+<p style="color: gray;"><em>Last updated: September 12, 2024</em></p>
 
+- [Gray Crawford](https://x.com/graycrawford) - Latent Space Designer
 - [Gytis Daujotas](https://x.com/gytdau) - Images
 - [Joel Simon](https://x.com/_joelsimon/status/1831777936816664679) - Images
 - [Yondon Fu](https://x.com/YondonFu/status/1808282465217532191) - Images

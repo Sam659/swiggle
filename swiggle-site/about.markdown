@@ -27,7 +27,7 @@ Let us know what you think!
 
 ### 2024
 
-- [People to Follow in Interpretability](/blogs/people-to-follow-in-interpretability) - Last updated: September 10, 2024
+- [People to Follow in Interpretability](/blogs/people-to-follow-in-interpretability) - Last updated: September 12, 2024
 - [The State of Mech Interp 2024](/blogs/the-state-of-mech-interp-2024) - Coming Soon!
 
 <br>
