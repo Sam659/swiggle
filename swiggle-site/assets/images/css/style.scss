@@ -3,5 +3,6 @@
 
 @charset "utf-8";
 
-@import "tufte", "tufte-extra", "tufte-pandoc-jekyll-extra", "pandoc",
-  "pandoc-solarized";
+@import "../../../_sass/tufte", "../../../_sass/tufte-extra",
+  "../../../_sass/tufte-pandoc-jekyll-extra", "../../../_sass/pandoc",
+  "../../../_sass/pandoc-solarized";
