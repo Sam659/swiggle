@@ -29,8 +29,16 @@ github_username: Sam659
 
 # Build settings
 theme: tufte-pandoc-jekyll
+
 plugins:
   - jekyll-pandoc
+  - jekyll-remote-theme
+remote_theme: jez/tufte-pandoc-jekyll # Use the correct path to your theme repository
+
+sass:
+  sass_dir: _sass
+  style: compressed # or expanded for easier debugging
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
