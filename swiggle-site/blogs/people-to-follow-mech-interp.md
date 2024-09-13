@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People to Follow in Interpretability
-permalink: /blogs/people-to-follow-in-interpretability
+permalink: /swiggle/blogs/people-to-follow-in-interpretability
 use_math: true
 ---
 

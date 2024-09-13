@@ -21,14 +21,14 @@ Let us know what you think!
 
 ### 2024
 
-- [Swiggle](/blogs/swiggle_project) - August-September
+- [Swiggle](/swiggle/blogs/swiggle_project) - August-September
 
 ## Blogs
 
 ### 2024
 
-- [People to Follow in Interpretability](/blogs/people-to-follow-in-interpretability) - Last updated: September 12, 2024
-- [The State of Mech Interp 2024](/blogs/the-state-of-mech-interp-2024) - Coming Soon!
+- [People to Follow in Interpretability](/swiggle/blogs/people-to-follow-in-interpretability) - Last updated: September 12, 2024
+- [The State of Mech Interp 2024](/swiggle/blogs/the-state-of-mech-interp-2024) - Coming Soon!
 
 <br>
 Connect with us: [Eric Chen](https://x.com/erico_cheny). [Javier Garcia](https://x.com/Javier_A_Garcia). [Sam Postelnik](https://x.com/sam_postelnik).

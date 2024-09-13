@@ -2,7 +2,7 @@
 layout: page
 title: The State of Mech Interp 2024
 subtitle: September 10
-permalink: /blogs/the-state-of-mech-interp-2024
+permalink: /swiggle/blogs/the-state-of-mech-interp-2024
 use_math: true
 ---
 
