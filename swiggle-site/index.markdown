@@ -31,7 +31,6 @@ Here's a sentence with a margin note.{^mn-id}
 
 ## Margin Figures
 
-{% marginfigure 'mf-id-1' 'assets/img/rhino.png' 'This is a margin figure of a rhino.' %}
 This paragraph has a margin figure. Margin figures can be used to display images, charts, or other visual elements in the margin.
 
 ## Math Support
