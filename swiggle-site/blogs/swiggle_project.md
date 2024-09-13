@@ -2,7 +2,7 @@
 layout: page
 title: Swiggle
 subtitle: August - September 2024
-permalink: /blogs/swiggle
+permalink: /blogs/swiggle_project
 use_math: true
 ---
 

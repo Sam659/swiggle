@@ -21,7 +21,7 @@ Let us know what you think!
 
 ### 2024
 
-- [Swiggle](/blogs/swiggle) - August-September
+- [Swiggle](/blogs/swiggle_project) - August-September
 
 ## Blogs
 
