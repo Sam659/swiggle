@@ -5,7 +5,7 @@
 layout: home
 --- -->
 
----
+<!-- ---
 
 layout: post
 title: "Sample Tufte-style Post"
@@ -44,4 +44,4 @@ $$
 
 ## Conclusion
 
-This is just a brief example of what you can do with Tufte CSS in Jekyll. Experiment with different elements to create beautifully typeset web pages.
+This is just a brief example of what you can do with Tufte CSS in Jekyll. Experiment with different elements to create beautifully typeset web pages. -->
